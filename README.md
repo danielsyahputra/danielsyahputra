@@ -7,7 +7,7 @@ I'm Daniel Syahputra, a CS/IT student at University of Indonesia with big intere
 I'm experienced in using Python on a daily basis and currently learning R as my ML tools. I have previously worked on tabular data and next time I'll try to explore image or text data
 
   
-## More About Me:man:
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - :thinking: Growth mindest
   
