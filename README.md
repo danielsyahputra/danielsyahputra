@@ -2,9 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
   
-I'm Daniel Syahputra, a CS/IT student at University of Indonesia with big interest in Data Science and Machine Learning. I enjoy learning about Data Science and Machine Learning and also try to not just using ML libraries, but also understanding how algoritm/math behind it. 
-  
-I'm experienced in using Python on a daily basis and currently learning R as my ML tools. I have previously worked on tabular data and next time I'll try to explore image or text data
+I’m a third-year Computer Science student at the University of Indonesia, passionate about artificial intelligence and machine learning. Using python and R daily, I’m able to do machine learning workflows such as preprocessing, statistical modeling, and model deployment. I enjoy doing NLP-based tasks such as sentiment analysis, hate speech and cyberbullying detection, etc. Currently, I’m deepening my knowledge and experience in NLP through some research, especially in Indonesian text, and hopefully, it will impact Indonesian society in the future.
 
   
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
