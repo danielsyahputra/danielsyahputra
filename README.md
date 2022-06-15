@@ -1,9 +1,14 @@
-<p align="center"><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width="50%"  src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Nice to Meet You.:blush:
   
-I’m a third-year Computer Science student at the University of Indonesia, passionate about artificial intelligence and machine learning. Using python and R daily, I’m able to do machine learning workflows such as preprocessing, statistical modeling, and model deployment. I enjoy doing NLP-based tasks such as sentiment analysis, hate speech and cyberbullying detection, etc. Currently, I’m deepening my knowledge and experience in NLP through some research, especially in Indonesian text, and hopefully, it will impact Indonesian society in the future.
+<p style='text-align: justify;'>
+I’m a third-year Computer Science student at the University of Indonesia, passionate about artificial intelligence and machine learning. Using python and R daily, I can do machine learning workflows such as data collection, annotation process, preprocessing, statistical modeling, and model deployment. 
+</p>
 
+<p style='text-align: justify;'>
+I have previously worked on structured and unstructured data such as text, images, graph networks, and time-series data. Still, currently, I’m deepening my knowledge and experience in NLP through some research, especially in Indonesian text, and hopefully, it will impact Indonesian society in the future.
+</p>
   
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
