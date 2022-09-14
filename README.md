@@ -1,47 +1,21 @@
-<p align="center"><img width="50%"  src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<div align="center" style="   background-color: white;
+  border: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1; padding-bottom:3em; padding-left: 2em; padding-right:2em;">
+<h1>ABOUT</h1>
+I’m a final-year student at the <a href="https://www.ui.ac.id/">University of Indonesia</a>, passionate about artificial intelligence and machine learning. Using python and R daily, I can do machine learning workflows such as data collection, annotation process, preprocessing, statistical modeling, and model deployment. I have previously worked on structured and unstructured data such as text, images, graph networks, and time-series data. 
+<br><br>
+Still, currently, I'm deepening my knowledge and experience in Computer Vision through some research, and hopefully, it will impact Indonesian society in the future.
+</div>
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Nice to Meet You.:blush:
-  
-<p style='text-align: justify;'>
-I’m a third-year Computer Science student at the University of Indonesia, passionate about artificial intelligence and machine learning. Using python and R daily, I can do machine learning workflows such as data collection, annotation process, preprocessing, statistical modeling, and model deployment. 
+---
+
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=danielsyahputra13&show_icons=true&count_private=true" style="text-align:center" />
 </p>
 
-<p style='text-align: justify;'>
-I have previously worked on structured and unstructured data such as text, images, graph networks, and time-series data. Still, currently, I’m deepening my knowledge and experience in NLP through some research, especially in Indonesian text, and hopefully, it will impact Indonesian society in the future.
-</p>
-  
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<div align="center">
 
-- :thinking: Growth mindest
-  
-- :chart: Data Enthusiast
-  
-- :heart: Love Math and Programming
-  
-- ⚙️ I use daily: `.py`, `.js`, `.java`, `.R`, `.ts`, `.sql`, `.css`
-  
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=danielsyahputra13&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsyahputra/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsyahputra13&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&hide=html,css,TeX)
-  
-## 🧑‍💻 Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
-  <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" /></a>
-  <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" /></a>
-  <a href="https://www.typescriptlang.org/"><img align="left" alt="Typescript" title="Typescript" width="21px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
-  <a href="https://www.docker.com/"><img align="left" alt="Docker" title="Docker" width="21px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" /></a>
-  <a href="https://www.tensorflow.org/"><img align="left" alt="Tensorflow" title="Tensorflow" width="21px" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" /></a>
-  <br>
-
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Daniel Syahputra
-on LinkedIn" title="Follow Daniel Syahputra on LinkedIn"/>](https://www.linkedin.com/in/daniel-syahputra-purba-940999175/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Daniel Syahputra on Instagram" title="Follow Daniel Syahputra on Instagram"/>](https://www.instagram.com/danielsyahputra13/)
+</div>
