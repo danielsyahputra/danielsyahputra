@@ -11,7 +11,7 @@ Still, currently, I'm deepening my knowledge and experience in Computer Vision t
 ---
 
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=danielsyahputra&show_icons=true&count_private=true" style="text-align:center" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielsyahputra&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,ffe66b,6bfdff,6bc4ff&theme=graywhite"/>
 </p>
 
 <div align="center">
