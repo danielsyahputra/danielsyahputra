@@ -11,8 +11,17 @@ Still, currently, I'm deepening my knowledge and experience in Computer Vision t
 ---
 
 <p align="center" >
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielsyahputra&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=fffa6b,ffe66b,6bfdff,6bc4ff&theme=graywhite"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielsyahputra&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&&theme=tokyonight"/>
 </p>
+
+<div align="center">
+  
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=HydraNet&theme=tokyonight)](https://github.com/danielsyahputra/HydraNet)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=CPPE-Streamlit&theme=tokyonight)](https://github.com/danielsyahputra/CPPE-Streamlit)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=parking-space-detection&theme=tokyonight)](https://github.com/danielsyahputra/parking-space-detection)
+
+  
+</div>
 
 <div align="center">
 
