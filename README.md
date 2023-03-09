@@ -10,7 +10,7 @@ Still, currently, I'm deepening my knowledge and experience in Computer Vision t
 
 ---
 
-<!-- <p align="center" >
+<p align="center" >
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=danielsyahputra&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=20&&theme=tokyonight"/>
 </p>
 
@@ -21,7 +21,7 @@ Still, currently, I'm deepening my knowledge and experience in Computer Vision t
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=parking-space-detection&theme=tokyonight)](https://github.com/danielsyahputra/parking-space-detection)
 
   
-</div> -->
+</div>
 
 <div align="center">
 
