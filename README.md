@@ -18,7 +18,6 @@ Still, currently, I'm deepening my knowledge and experience in Computer Vision t
   
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=HydraNet&theme=tokyonight)](https://github.com/danielsyahputra/HydraNet)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=CPPE-Streamlit&theme=tokyonight)](https://github.com/danielsyahputra/CPPE-Streamlit)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=danielsyahputra&repo=parking-space-detection&theme=tokyonight)](https://github.com/danielsyahputra/parking-space-detection)
 
   
 </div>
