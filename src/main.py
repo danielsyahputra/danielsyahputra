@@ -14,7 +14,7 @@ def update_readme_github_activities(github_feed, readme_base, join_on):
     activities = []
     for item in d.entries[:10]:
         if item.get('summary'):
-            title = item["summary"]
+            title = item["summary"] if item["summary"] != "No description" else item["title"]
             link = item.get("links")[0]["href"]
             activities.append(f" - [{title}]({link})")
     activities_joined = '\n'.join(activities)
