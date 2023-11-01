@@ -1,0 +1,11 @@
+services:
+  github-readme:
+    image: github-readme-automation:v1.0.0
+    container_name: github-readme-automation
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    restart: always
+    volumes:
+      - .:/app
