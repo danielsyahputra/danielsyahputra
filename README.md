@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [GhostFaceNets](https://github.com/danielsyahputra/GhostFaceNets)
  - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/danielsyahputra/mistral-src)
  - [A collection of research paper implementations in PyTorch](https://github.com/danielsyahputra/ML_Papers)
  - [Deep Learning sample programs using PyTorch in C++](https://github.com/danielsyahputra/pytorch_cpp)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Calculation of customer dwelling time using deepSort and YoloV5](https://github.com/danielsyahputra/CodeTitans_CustomerDwellingTime)
  - [Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet](https://github.com/danielsyahputra/StrongSORT-YOLO)
  - [😎 An up-to-date &amp; curated list of awesome semi-supervised learning papers, methods &amp; resources.](https://github.com/danielsyahputra/awesome-semi-supervised-learning)
- - [YOLOv5 with Comet ML Template](https://github.com/danielsyahputra/yolov5-comet-trainer)
- - [Tire Detection with OpenVINO using C++ Runtime](https://github.com/danielsyahputra/tire-detection-openvino-cpp)<hr>
+ - [YOLOv5 with Comet ML Template](https://github.com/danielsyahputra/yolov5-comet-trainer)<hr>
 <div align="center">
-README.md last auto generated Wed Nov  1 20:40:06 2023
+README.md last auto generated Thu Nov  2 12:20:16 2023
 <br>
 </div>
