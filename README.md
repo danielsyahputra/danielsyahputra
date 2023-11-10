@@ -33,6 +33,6 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet](https://github.com/danielsyahputra/StrongSORT-YOLO)
  - [😎 An up-to-date &amp; curated list of awesome semi-supervised learning papers, methods &amp; resources.](https://github.com/danielsyahputra/awesome-semi-supervised-learning)<hr>
 <div align="center">
-README.md last auto generated Thu Nov  9 12:20:06 2023
+README.md last auto generated Fri Nov 10 12:20:09 2023
 <br>
 </div>
