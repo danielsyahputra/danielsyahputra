@@ -33,6 +33,6 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Calculation of customer dwelling time using deepSort and YoloV5](https://github.com/danielsyahputra/CodeTitans_CustomerDwellingTime)
  - [Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet](https://github.com/danielsyahputra/StrongSORT-YOLO)<hr>
 <div align="center">
-README.md last auto generated Sat Nov 25 12:20:12 2023
+README.md last auto generated Sun Nov 26 12:20:11 2023
 <br>
 </div>
