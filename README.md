@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
  - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
  - [ECCV 2018 -  Where are the Blobs: Counting by Localization with Point Supervision. This is a ServiceNow Research project that was started at Element AI.](https://github.com/danielsyahputra/LCFCN)
  - [GhostFaceNets](https://github.com/danielsyahputra/GhostFaceNets)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Deep Learning sample programs using PyTorch in C++](https://github.com/danielsyahputra/pytorch_cpp)
  - [ToDayGAN](https://github.com/danielsyahputra/ToDayGAN)
  - [2pcnet](https://github.com/danielsyahputra/2pcnet)
- - [Calculation of customer dwelling time using deepSort and YoloV5](https://github.com/danielsyahputra/CodeTitans_CustomerDwellingTime)
- - [Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet](https://github.com/danielsyahputra/StrongSORT-YOLO)<hr>
+ - [Calculation of customer dwelling time using deepSort and YoloV5](https://github.com/danielsyahputra/CodeTitans_CustomerDwellingTime)<hr>
 <div align="center">
-README.md last auto generated Tue Nov 28 12:21:17 2023
+README.md last auto generated Wed Nov 29 12:21:05 2023
 <br>
 </div>
