@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”](https://github.com/danielsyahputra/White-box-Cartoonization)
  - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
  - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
  - [ECCV 2018 -  Where are the Blobs: Counting by Localization with Point Supervision. This is a ServiceNow Research project that was started at Element AI.](https://github.com/danielsyahputra/LCFCN)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [A collection of research paper implementations in PyTorch](https://github.com/danielsyahputra/ML_Papers)
  - [Deep Learning sample programs using PyTorch in C++](https://github.com/danielsyahputra/pytorch_cpp)
  - [ToDayGAN](https://github.com/danielsyahputra/ToDayGAN)
- - [2pcnet](https://github.com/danielsyahputra/2pcnet)
- - [Calculation of customer dwelling time using deepSort and YoloV5](https://github.com/danielsyahputra/CodeTitans_CustomerDwellingTime)<hr>
+ - [2pcnet](https://github.com/danielsyahputra/2pcnet)<hr>
 <div align="center">
-README.md last auto generated Mon Dec  4 12:21:32 2023
+README.md last auto generated Tue Dec  5 12:21:33 2023
 <br>
 </div>
