@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [Model Make Color Classification with Few-shot Learning (DN4 and ProtoNet)](https://github.com/danielsyahputra/mmc-with-fewshot-learning)
  - [Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”](https://github.com/danielsyahputra/White-box-Cartoonization)
  - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
  - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/danielsyahputra/mistral-src)
  - [A collection of research paper implementations in PyTorch](https://github.com/danielsyahputra/ML_Papers)
  - [Deep Learning sample programs using PyTorch in C++](https://github.com/danielsyahputra/pytorch_cpp)
- - [ToDayGAN](https://github.com/danielsyahputra/ToDayGAN)
- - [2pcnet](https://github.com/danielsyahputra/2pcnet)<hr>
+ - [ToDayGAN](https://github.com/danielsyahputra/ToDayGAN)<hr>
 <div align="center">
-README.md last auto generated Mon Dec 11 12:21:33 2023
+README.md last auto generated Tue Dec 12 12:21:27 2023
 <br>
 </div>
