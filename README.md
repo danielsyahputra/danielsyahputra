@@ -22,6 +22,8 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)
+ - [We write your reusable computer vision tools. 💜](https://github.com/danielsyahputra/supervision)
  - [PyTorch-IE: State-of-the-art Information Extraction in PyTorch](https://github.com/danielsyahputra/pytorch-ie)
  - [Model Make Color Classification with Few-shot Learning (DN4 and ProtoNet)](https://github.com/danielsyahputra/mmc-with-fewshot-learning)
  - [Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”](https://github.com/danielsyahputra/White-box-Cartoonization)
@@ -29,10 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
  - [ECCV 2018 -  Where are the Blobs: Counting by Localization with Point Supervision. This is a ServiceNow Research project that was started at Element AI.](https://github.com/danielsyahputra/LCFCN)
  - [GhostFaceNets](https://github.com/danielsyahputra/GhostFaceNets)
- - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/danielsyahputra/mistral-src)
- - [A collection of research paper implementations in PyTorch](https://github.com/danielsyahputra/ML_Papers)
- - [Deep Learning sample programs using PyTorch in C++](https://github.com/danielsyahputra/pytorch_cpp)<hr>
+ - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/danielsyahputra/mistral-src)<hr>
 <div align="center">
-README.md last auto generated Tue Dec 19 12:20:59 2023
+README.md last auto generated Wed Dec 20 12:17:06 2023
 <br>
 </div>
