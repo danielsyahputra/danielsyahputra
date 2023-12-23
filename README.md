@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [SQL databases in Python, designed for simplicity, compatibility, and robustness.](https://github.com/danielsyahputra/sqlmodel)
  - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)
  - [We write your reusable computer vision tools. 💜](https://github.com/danielsyahputra/supervision)
  - [PyTorch-IE: State-of-the-art Information Extraction in PyTorch](https://github.com/danielsyahputra/pytorch-ie)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
  - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
  - [ECCV 2018 -  Where are the Blobs: Counting by Localization with Point Supervision. This is a ServiceNow Research project that was started at Element AI.](https://github.com/danielsyahputra/LCFCN)
- - [GhostFaceNets](https://github.com/danielsyahputra/GhostFaceNets)
- - [Reference implementation of Mistral AI 7B v0.1 model.](https://github.com/danielsyahputra/mistral-src)<hr>
+ - [GhostFaceNets](https://github.com/danielsyahputra/GhostFaceNets)<hr>
 <div align="center">
-README.md last auto generated Fri Dec 22 12:21:13 2023
+README.md last auto generated Sat Dec 23 12:20:02 2023
 <br>
 </div>
