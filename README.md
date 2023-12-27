@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)
  - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)
  - [SQL databases in Python, designed for simplicity, compatibility, and robustness.](https://github.com/danielsyahputra/sqlmodel)
  - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Model Make Color Classification with Few-shot Learning (DN4 and ProtoNet)](https://github.com/danielsyahputra/mmc-with-fewshot-learning)
  - [Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”](https://github.com/danielsyahputra/White-box-Cartoonization)
  - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
- - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)
- - [ECCV 2018 -  Where are the Blobs: Counting by Localization with Point Supervision. This is a ServiceNow Research project that was started at Element AI.](https://github.com/danielsyahputra/LCFCN)<hr>
+ - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)<hr>
 <div align="center">
-README.md last auto generated Tue Dec 26 12:20:52 2023
+README.md last auto generated Wed Dec 27 12:20:34 2023
 <br>
 </div>
