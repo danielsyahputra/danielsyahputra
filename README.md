@@ -22,17 +22,17 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
+ - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
+ - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
+ - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)
+ - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)
  - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)
  - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)
  - [SQL databases in Python, designed for simplicity, compatibility, and robustness.](https://github.com/danielsyahputra/sqlmodel)
  - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)
- - [We write your reusable computer vision tools. 💜](https://github.com/danielsyahputra/supervision)
- - [PyTorch-IE: State-of-the-art Information Extraction in PyTorch](https://github.com/danielsyahputra/pytorch-ie)
- - [Model Make Color Classification with Few-shot Learning (DN4 and ProtoNet)](https://github.com/danielsyahputra/mmc-with-fewshot-learning)
- - [Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”](https://github.com/danielsyahputra/White-box-Cartoonization)
- - [Horizon UI JavaScript ⭐️ The trendiest &amp; innovative Open Source Admin Template for Chakra UI &amp; React!](https://github.com/danielsyahputra/horizon-ui-chakra)
- - [Conditional GAN for generating synthetic tabular data.](https://github.com/danielsyahputra/CTGAN)<hr>
+ - [We write your reusable computer vision tools. 💜](https://github.com/danielsyahputra/supervision)<hr>
 <div align="center">
-README.md last auto generated Wed Dec 27 12:20:34 2023
+README.md last auto generated Thu Dec 28 12:20:56 2023
 <br>
 </div>
