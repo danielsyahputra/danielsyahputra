@@ -22,6 +22,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs 
 
 ### Activities by Daniel Syahputra on Github
+ - [FastAPI Boilerplate Integrated with Pydantic, SqlAlchemy, Postgress, and Redis](https://github.com/danielsyahputra/FastAPI-boilerplate)
  - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
  - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
  - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
@@ -30,9 +31,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)
  - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)
  - [SQL databases in Python, designed for simplicity, compatibility, and robustness.](https://github.com/danielsyahputra/sqlmodel)
- - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)
- - [We write your reusable computer vision tools. 💜](https://github.com/danielsyahputra/supervision)<hr>
+ - [All Algorithms implemented in Python](https://github.com/danielsyahputra/Algorithms-Python)<hr>
 <div align="center">
-README.md last auto generated Mon Jan 15 12:22:31 2024
+README.md last auto generated Tue Jan 16 12:21:56 2024
 <br>
 </div>
