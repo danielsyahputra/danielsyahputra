@@ -30,6 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
+ - [API Version for FTCN (Face Forgery Detection)](https://github.com/danielsyahputra/FTCN-API)
  - [Collection of notebooks about quantitative finance, with interactive python code.](https://github.com/danielsyahputra/Financial-Models-Numerical-Methods)
  - [FastAPI Boilerplate Integrated with Pydantic, SqlAlchemy, Postgress, and Redis](https://github.com/danielsyahputra/FastAPI-boilerplate)
  - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
@@ -38,9 +39,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)
  - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)
  - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)
- - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)
- - [SQL databases in Python, designed for simplicity, compatibility, and robustness.](https://github.com/danielsyahputra/sqlmodel)<hr>
+ - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)<hr>
 <div align="center">
-README.md last auto generated Fri Feb  2 12:21:31 2024
+README.md last auto generated Sat Feb  3 12:19:03 2024
 <br>
 </div>
