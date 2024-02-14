@@ -30,6 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
+ - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
  - [API Version for FTCN (Face Forgery Detection)](https://github.com/danielsyahputra/FTCN-API)
  - [Collection of notebooks about quantitative finance, with interactive python code.](https://github.com/danielsyahputra/Financial-Models-Numerical-Methods)
  - [FastAPI Boilerplate Integrated with Pydantic, SqlAlchemy, Postgress, and Redis](https://github.com/danielsyahputra/FastAPI-boilerplate)
@@ -38,9 +39,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
  - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)
  - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)
- - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)
- - [📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.](https://github.com/danielsyahputra/Learn-Mojo)<hr>
+ - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)<hr>
 <div align="center">
-README.md last auto generated Tue Feb 13 12:20:22 2024
+README.md last auto generated Wed Feb 14 12:20:48 2024
 <br>
 </div>
