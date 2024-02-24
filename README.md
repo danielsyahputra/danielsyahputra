@@ -30,6 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
+ - [Python Implementation for Performing Object Detection Using YOLOv9 with ONNX &amp; ONNXRuntime](https://github.com/danielsyahputra/yolov9-onnx)
  - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
  - [API Version for FTCN (Face Forgery Detection)](https://github.com/danielsyahputra/FTCN-API)
  - [Collection of notebooks about quantitative finance, with interactive python code.](https://github.com/danielsyahputra/Financial-Models-Numerical-Methods)
@@ -38,9 +39,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
  - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
  - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)
- - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)
- - [Curated list of Mojo resources, benchmarks and examples 🔥](https://github.com/danielsyahputra/mojo-is-awesome)<hr>
+ - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)<hr>
 <div align="center">
-README.md last auto generated Fri Feb 23 12:20:57 2024
+README.md last auto generated Sat Feb 24 12:21:51 2024
 <br>
 </div>
