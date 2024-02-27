@@ -30,6 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
+ - [An elegent pytorch implement of transformers](https://github.com/danielsyahputra/bert4torch)
  - [Python Implementation for Performing Object Detection Using YOLOv9 with ONNX &amp; ONNXRuntime](https://github.com/danielsyahputra/yolov9-onnx)
  - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
  - [API Version for FTCN (Face Forgery Detection)](https://github.com/danielsyahputra/FTCN-API)
@@ -38,9 +39,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
  - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
  - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
- - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)
- - [Using oriented gabor filters to enhance fingerprint images](https://github.com/danielsyahputra/Fingerprint-Enhancement-Python)<hr>
+ - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)<hr>
 <div align="center">
-README.md last auto generated Mon Feb 26 12:20:41 2024
+README.md last auto generated Tue Feb 27 12:20:40 2024
 <br>
 </div>
