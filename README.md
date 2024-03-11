@@ -30,6 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
+ - [Vehicle Speed Estimation Using YOLOv8](https://github.com/danielsyahputra/speed-estimation)
  - [An elegent pytorch implement of transformers](https://github.com/danielsyahputra/bert4torch)
  - [Python Implementation for Performing Object Detection Using YOLOv9 with ONNX &amp; ONNXRuntime](https://github.com/danielsyahputra/yolov9-onnx)
  - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
@@ -38,9 +39,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [FastAPI Boilerplate Integrated with Pydantic, SqlAlchemy, Postgress, and Redis](https://github.com/danielsyahputra/FastAPI-boilerplate)
  - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
  - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
- - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)
- - [Extract minutiae features from fingerprint images](https://github.com/danielsyahputra/Fingerprint-Feature-Extraction)<hr>
+ - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)<hr>
 <div align="center">
-README.md last auto generated Sun Mar 10 12:21:08 2024
+README.md last auto generated Mon Mar 11 12:22:04 2024
 <br>
 </div>
