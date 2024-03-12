@@ -30,7 +30,7 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
- - [Vehicle Speed Estimation Using YOLOv8](https://github.com/danielsyahputra/speed-estimation)
+ - [Simple and Modular YOLOv8 Detection and Tracking Code](https://github.com/danielsyahputra/yolov8-onnx)
  - [An elegent pytorch implement of transformers](https://github.com/danielsyahputra/bert4torch)
  - [Python Implementation for Performing Object Detection Using YOLOv9 with ONNX &amp; ONNXRuntime](https://github.com/danielsyahputra/yolov9-onnx)
  - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
@@ -41,6 +41,6 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
  - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)
  - [FingerFlow is an end-to-end deep learning Python framework for fingerprint minutiae manipulation built on top of Keras - TensorFlow high-level API.](https://github.com/danielsyahputra/fingerflow)<hr>
 <div align="center">
-README.md last auto generated Mon Mar 11 12:22:04 2024
+README.md last auto generated Tue Mar 12 12:21:42 2024
 <br>
 </div>
