@@ -30,17 +30,8 @@ Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs
 </p>
 
 ### Activities by Daniel Syahputra on Github
- - [Code for CVPR-W 2020 paper "Hierarchical Image Classification using Entailment Cone Embeddings" https://arxiv.org/abs/2004.03459](https://github.com/danielsyahputra/learning_embeddings)
- - [Simple and Modular YOLOv8 Detection and Tracking Code](https://github.com/danielsyahputra/yolov8-onnx)
- - [An elegent pytorch implement of transformers](https://github.com/danielsyahputra/bert4torch)
- - [Python Implementation for Performing Object Detection Using YOLOv9 with ONNX &amp; ONNXRuntime](https://github.com/danielsyahputra/yolov9-onnx)
- - [Sentiment Analysis API for Indonesia Election 2024](https://github.com/danielsyahputra/Pilpres2024API)
- - [API Version for FTCN (Face Forgery Detection)](https://github.com/danielsyahputra/FTCN-API)
- - [Collection of notebooks about quantitative finance, with interactive python code.](https://github.com/danielsyahputra/Financial-Models-Numerical-Methods)
- - [FastAPI Boilerplate Integrated with Pydantic, SqlAlchemy, Postgress, and Redis](https://github.com/danielsyahputra/FastAPI-boilerplate)
- - [Implementation of fingerprint image enhancement filters](https://github.com/danielsyahputra/fingerprints)
- - [Code and models for paper "Robust Minutiae Extractor: Integrating Deep Networks and Fingerprint Domain Knowledge" at International Conference on Biometrics (ICB) 2018](https://github.com/danielsyahputra/MinutiaeNet)<hr>
+<hr>
 <div align="center">
-README.md last auto generated Tue May  7 12:23:17 2024
+README.md last auto generated Wed May  8 12:19:13 2024
 <br>
 </div>
