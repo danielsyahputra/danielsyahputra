@@ -12,13 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🍽️ Get working copy
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1                                                                 
       - name: 🐍 Set up Python 3.8                               
-        uses: actions/setup-python@v2                               
+        uses: actions/setup-python@v5                               
         with:                                 
-          python-version: '3.8'                                                   
+          python-version: '3.8'
+          cache: 'pip'
       - name: 💿 Install feedparser & pytz                              
         run: pip install feedparser pytz
       - name: 🍳 Update README
