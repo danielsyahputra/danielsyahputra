@@ -20,7 +20,7 @@ jobs:
         with:                                 
           python-version: '3.10'
       - name: 💿 Install feedparser & pytz                              
-        run: pip install feedparser pytz
+        run: pip install -r requirements.txt
       - name: 🍳 Update README
         run: python ${GITHUB_WORKSPACE}/src/main.py
       - name: 🚀 Deploy
