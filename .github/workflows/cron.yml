@@ -18,14 +18,11 @@ jobs:
       - name: 🐍 Set up Python 3.8                               
         uses: actions/setup-python@v5                               
         with:                                 
-          python-version: '3.8'
-          cache: 'pip'
+          python-version: '3.10'
       - name: 💿 Install feedparser & pytz                              
         run: pip install feedparser pytz
       - name: 🍳 Update README
-        run: |
-          cd ${GITHUB_WORKSPACE}/src/
-          python main.py
+        run: python ${GITHUB_WORKSPACE}/src/main.py
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
