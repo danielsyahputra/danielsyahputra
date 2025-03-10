@@ -14,7 +14,7 @@ Scio/Beam, Spark, Docker, BigQuery, CloudBuild, Flask, Airflow
 ### Currently Exploring
 - 🌱 I’m currently learning **Structuring Ontologies, SparQL Queries, RDF Stores, NLP, and Knowledge Graphs**
 
-- 📫 How to reach me **dnlshp@gmail.com**
+- 📫 How to reach me **dnlshp@gmail.com**, **daniel.syahputra@akademiai.site**
 
 
 ### Development Stuffs:
