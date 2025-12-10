@@ -1,5 +1,7 @@
 <hr>
 <div align="center">
-README.md last auto generated {timestamp}
+  
+**[danielsyahputra]** • Last compiled: `{timestamp}` • Built with ☕ and 💻
+
 <br>
 </div>
