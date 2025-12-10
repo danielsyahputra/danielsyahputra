@@ -30,7 +30,7 @@ def update_readme_github_activities(github_feed, readme_base, join_on):
     return readme_base[:readme_base.find(rss_title)] + f"{join_on}\n{activities_joined}"
 
 if __name__=="__main__":
-    rss_title = "### Activities by Daniel Syahputra on Github" # Anchor for where to append activities
+    rss_title = "## Activities by Daniel Syahputra on Github" # Anchor for where to append activities
     readme = Path(f'{ROOT}/README.md').read_text()
     updated_readme = update_readme_github_activities("https://rsshub.app/github/repos/danielsyahputra", readme, rss_title)
     with open(f'{ROOT}/README.md', "w+") as f:
